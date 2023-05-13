@@ -1,0 +1,13 @@
+.nav {
+    padding: 0.5rem 1rem;
+    background: wheat;
+}
+
+.nav ul {
+    display: flex;
+} 
+
+.nav li {
+    margin-right: 1rem;
+    color: rgb(77, 51, 38);
+}
